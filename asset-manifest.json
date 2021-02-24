@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/WeStay.git/static/css/main.07a9518f.chunk.css",
+    "main.js": "/WeStay.git/static/js/main.7d113722.chunk.js",
+    "main.js.map": "/WeStay.git/static/js/main.7d113722.chunk.js.map",
+    "runtime-main.js": "/WeStay.git/static/js/runtime-main.eaa82525.js",
+    "runtime-main.js.map": "/WeStay.git/static/js/runtime-main.eaa82525.js.map",
+    "static/css/2.0bd7876e.chunk.css": "/WeStay.git/static/css/2.0bd7876e.chunk.css",
+    "static/js/2.5d260e09.chunk.js": "/WeStay.git/static/js/2.5d260e09.chunk.js",
+    "static/js/2.5d260e09.chunk.js.map": "/WeStay.git/static/js/2.5d260e09.chunk.js.map",
+    "static/js/3.8366f1d2.chunk.js": "/WeStay.git/static/js/3.8366f1d2.chunk.js",
+    "static/js/3.8366f1d2.chunk.js.map": "/WeStay.git/static/js/3.8366f1d2.chunk.js.map",
+    "index.html": "/WeStay.git/index.html",
+    "static/css/2.0bd7876e.chunk.css.map": "/WeStay.git/static/css/2.0bd7876e.chunk.css.map",
+    "static/css/main.07a9518f.chunk.css.map": "/WeStay.git/static/css/main.07a9518f.chunk.css.map",
+    "static/js/2.5d260e09.chunk.js.LICENSE.txt": "/WeStay.git/static/js/2.5d260e09.chunk.js.LICENSE.txt",
+    "static/media/Image2.08346bab.jpg": "/WeStay.git/static/media/Image2.08346bab.jpg",
+    "static/media/efcore.421cc1b8.png": "/WeStay.git/static/media/efcore.421cc1b8.png",
+    "static/media/index.css": "/WeStay.git/static/media/image4.fe25199d.jpg",
+    "static/media/logo.6ce24c58.svg": "/WeStay.git/static/media/logo.6ce24c58.svg",
+    "static/media/netcore.3ac68d1d.png": "/WeStay.git/static/media/netcore.3ac68d1d.png",
+    "static/media/reactjs.dda701e5.png": "/WeStay.git/static/media/reactjs.dda701e5.png",
+    "static/media/sqlserver.ae7aeffc.jpg": "/WeStay.git/static/media/sqlserver.ae7aeffc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaa82525.js",
+    "static/css/2.0bd7876e.chunk.css",
+    "static/js/2.5d260e09.chunk.js",
+    "static/css/main.07a9518f.chunk.css",
+    "static/js/main.7d113722.chunk.js"
+  ]
+}
