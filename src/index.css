@@ -1,13 +1,82 @@
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family:'Poppins';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("/src/Images/image4.jpg");
+  background-size: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.logo 
+{
+  color:#fcee96;
+}
+.logo span
+{
+  
+  color:#efe0d1;
+
+}
+.NavTop-NavItems a
+{
+  color:white;
+}
+.NavTop-NavItems a:hover
+{
+  color:#fcee96;
+  text-decoration: underline;
+}
+.NavTop
+{
+  background: #01303cb6;
+}
+.site-hero
+{
+  width: 100%;
+  height: 400px;
+}
+
+/* Booking area */
+.booking-header
+{
+  color: #efe0d1;
+  text-align: center;
+}
+.booking
+{
+position: relative;
+padding: 1em;
+background:#0a0a0abd;
+margin-top: .5em;
+}
+.modalbooking
+{
+  background: rgb(36, 36, 36);
+  position: absolute;
+  width: 100%;
+}
+.contact-me
+{
+  margin-top: 1em;
+  background:#0a0a0abd;
+  color:white;
+  text-align: center;
+}
+.footerIcons
+{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin:.5em .3em;
+}
+
+.amenities-desc
+{
+  margin-left:2em;
 }
